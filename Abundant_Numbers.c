@@ -12,6 +12,7 @@ int main()
             else s+=i;
         }
     }
+    
     if(s>n) cout<<"True";
     else cout<<"False";
 }
